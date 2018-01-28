@@ -3,9 +3,7 @@ django-rollmops
 
 
 [![Build Status](https://travis-ci.org/wiliamsouza/django-rollmops.svg)](https://travis-ci.org/wiliamsouza/django-rollmops)
-[![Coverage Status](https://coveralls.io/repos/wiliamsouza/django-rollmops/badge.svg?branch=master&service=github)](https://coveralls.io/github/wiliamsouza/django-rollmops?branch=master)
-
-Django rollmops is a field level permmisions for your modules.
+[![Coverage Status](https://coveralls.io/repos/github/wiliamsouza/django-rollmops/badge.svg?branch=master)](https://coveralls.io/github/wiliamsouza/django-rollmops?branch=master)
 
 When `django_rollmops` is listed in your `INSTALLED_APPS` setting,
 it will ensure that three default permissions – add, change and delete –
